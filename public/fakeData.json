@@ -4,307 +4,351 @@
       "price": 150,
       "name": "In Search of Lost Time",
       "writer": "Marcel Proust",
-      "image": "https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva"
+      "image": "https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva",
+      "quantity": 0
     },
     {
       "id": "6432e3917c8f144fde935618",
       "price": 250,
       "name": "JUlysses",
       "writer": "James Joyce",
-      "image": "https://d3i5mgdwi2ze58.cloudfront.net/usuab7s8yuwlcmadwx9woy746lvi"
+      "image": "https://d3i5mgdwi2ze58.cloudfront.net/usuab7s8yuwlcmadwx9woy746lvi",
+      "quantity": 0
     },
     {
       "id": "6432e391feda380f02a03083",
       "price": 149,
       "name": "Don Quixote",
       "writer": "Miguel de Cervantes",
-      "image": "https://d3i5mgdwi2ze58.cloudfront.net/zneklbeomp32h7fsp1isfkifhxrv"
+      "image": "https://d3i5mgdwi2ze58.cloudfront.net/zneklbeomp32h7fsp1isfkifhxrv",
+      "quantity": 0
     },
     {
       "id": "6432e3917d541bfc565720f2",
       "price": 129,
       "name": "One Hundred Years of Solitude",
       "writer": "Gabriel Garcia Marquez",
-      "image": "https://d3i5mgdwi2ze58.cloudfront.net/7pc7v940tg2z40i9x9tq7qi0fx35"
+      "image": "https://d3i5mgdwi2ze58.cloudfront.net/7pc7v940tg2z40i9x9tq7qi0fx35",
+      "quantity": 0
     },
     {
         "id": "6432f01347d12ddb75dd4e86",
         "price": 134,
         "name": "The Great Gatsby",
         "writer": "F. Scott Fitzgerald",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/z3d1ro97lc1yd91yalvalbn2xcc5"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/z3d1ro97lc1yd91yalvalbn2xcc5",
+        "quantity": 0
       },
       {
         "id": "6432f013d233293c6b8b0b20",
         "price": 123,
         "name": "Moby Dick",
         "writer": "Herman Melville",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/jzeie89rkkv1s2q7dwwgiysixnty"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/jzeie89rkkv1s2q7dwwgiysixnty",
+        "quantity": 0
       },
       {
         "id": "6432f0130562f1dc81e181d2",
         "price": 234,
         "name": "War and Peace",
         "writer": "Leo Tolstoy",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/swd3lfscp8lshlhuwfjng9s92o8q"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/swd3lfscp8lshlhuwfjng9s92o8q",
+        "quantity": 0
       },
       {
         "id": "6432f013ea210d3bd3cae6bd",
         "price": 255,
         "name": "Hamlet",
         "writer": "William Shakespeare",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xyqnrn3ystlqgvx01n311l5o8u4x"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xyqnrn3ystlqgvx01n311l5o8u4x",
+        "quantity": 0
       },
       {
         "id": "6432f013df9ae1ae186462f5",
-        "price": "$2,048.90",
+        "price": 345,
         "name": "The Odyssey",
         "writer": "Homer",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ihwv965787rm0zvkj6hg3f2taasw"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ihwv965787rm0zvkj6hg3f2taasw",
+        "quantity": 0
       },
       {
         "id": "6432f0136b8a9c8f639c0612",
-        "price": "$3,273.01",
+        "price": 342,
         "name": "Madame Bovary",
         "writer": "Gustave Flaubert",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/gckzc30wo2b24guei1wfqr7hp84q"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/gckzc30wo2b24guei1wfqr7hp84q",
+        "quantity": 0
       },
       {
         "id": "6432f013f2149986d7e38ed9",
-        "price": "$1,497.01",
+        "price": 867,
         "name": "The Divine Comedy",
         "writer": "Dante Alighieri",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/x9oilp1o53aty07nyh57oyogot20"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/x9oilp1o53aty07nyh57oyogot20",
+        "quantity": 0
       },
       {
         "id": "6432f01333a708e9fc327289",
-        "price": "$2,100.04",
+        "price": 123,
         "name": "Lolita",
         "writer": "Vladimir Nabokov",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ohdqloxu7zd24dkw85br8qg5lqvw"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ohdqloxu7zd24dkw85br8qg5lqvw",
+        "quantity": 0
       },
       {
         "id": "6432f01365f209ba2524a6d7",
-        "price": "$3,984.54",
+        "price": 234,
         "name": "The Brothers Karamazov",
         "writer": "Fyodor Dostoyevsky",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/mrfg1z61q1teibbfhnlz512vrufk"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/mrfg1z61q1teibbfhnlz512vrufk",
+        "quantity": 0
       },
       {
         "id": "6432f01391f52ec5096412c6",
-        "price": "$2,851.84",
+        "price": 233,
         "name": "Crime and Punishment",
         "writer": "Fyodor Dostoyevsky",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/sliuygtth8qftz1mt6pzrsom284g"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/sliuygtth8qftz1mt6pzrsom284g",
+        "quantity": 0
       },
       {
         "id": "6432f01393ab96cda2206487",
-        "price": "$1,313.15",
+        "price": 654,
         "name": "Wuthering Heights",
         "writer": "Emily Brontë",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/nq177x2hiawmcg2z68cpomu6z6uy"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/nq177x2hiawmcg2z68cpomu6z6uy",
+        "quantity": 0
       },
       {
         "id": "6432f0133088856a98b9beac",
-        "price": "$2,577.37",
+        "price": 321,
         "name": "The Catcher in the Rye",
         "writer": "J. D. Salinger",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/0em8udf8enqxgqda1rvev3ih7ukh"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/0em8udf8enqxgqda1rvev3ih7ukh",
+        "quantity": 0
       },
       {
         "id": "6432f0131e0bb2a744f0f03e",
-        "price": "$1,490.91",
+        "price": 342,
         "name": "Pride and Prejudice",
         "writer": "Jane Austen",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/g4wsouniiozbixzxvgznrw17erm9"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/g4wsouniiozbixzxvgznrw17erm9",
+        "quantity": 0
       },
       {
         "id": "6432f013dd6e8b851ba08f6a",
-        "price": "$2,378.14",
+        "price": 324,
         "name": "The Adventures of Huckleberry Finn",
         "writer": "Mark Twain",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/znuxxu2npw851eeboqayu3e35udn"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/znuxxu2npw851eeboqayu3e35udn",
+        "quantity": 0
       },
       {
         "id": "6432f0135d2f51ab9a50054e",
-        "price": "$3,693.77",
+        "price": 634,
         "name": "Anna Karenina",
         "writer": "Leo Tolstoy",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/jmhm8mrn2xjclr6v07rj00s6xl5g"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/jmhm8mrn2xjclr6v07rj00s6xl5g",
+        "quantity": 0
       },
       {
         "id": "6432f0135c50a9fa0af04f1c",
-        "price": "$3,146.09",
+        "price": 186,
         "name": "Alice's Adventures in Wonderland",
         "writer": "Lewis Carroll",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/bpjgg68n8b67g53xfzf9vvrtveqo"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/bpjgg68n8b67g53xfzf9vvrtveqo",
+        "quantity": 0
       },
       {
         "id": "6432f0139c12ccbf651be64b",
-        "price": "$3,626.84",
+        "price": 198,
         "name": "The Iliad",
         "writer": "Homer",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/0eesig0qqfy1ajg3evtlcxryw3je"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/0eesig0qqfy1ajg3evtlcxryw3je",
+        "quantity": 0
       },
       {
         "id": "6432f01327f01ebe8c3683a8",
-        "price": "$2,865.06",
+        "price": 286,
         "name": "To the Lighthouse",
         "writer": "Virginia Woolf",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/2wj4eozs59i06arch8ugwbppsin2"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/2wj4eozs59i06arch8ugwbppsin2",
+        "quantity": 0
       },
       {
         "id": "6432f013786dad2d6b754d4b",
-        "price": "$2,510.37",
+        "price": 358,
         "name": "Catch-22",
         "writer": "Joseph Heller",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/t9aq6o2lp2o2fszspwxujsnpinwv"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/t9aq6o2lp2o2fszspwxujsnpinwv",
+        "quantity": 0
       },
       {
         "id": "6432f013c1f67a44071f96f3",
-        "price": "$1,223.98",
+        "price": 175,
         "name": "Heart of Darkness",
         "writer": "Joseph Conrad",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/v5hj7dsdsv4g6bzdg2rx3ujp62hs"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/v5hj7dsdsv4g6bzdg2rx3ujp62hs",
+        "quantity": 0
       },
       {
         "id": "6432f0136badd815c9d713ed",
-        "price": "$1,577.07",
+        "price": 385,
         "name": "The Sound and the Fury",
         "writer": "William Faulkner",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/rciznxrjikzf3ypiq3mnqqnad7br"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/rciznxrjikzf3ypiq3mnqqnad7br",
+        "quantity": 0
       },
       {
         "id": "6432f0138ff7bd76ee9e2953",
-        "price": "$1,033.48",
+        "price": 358,
         "name": "Nineteen Eighty Four",
         "writer": "George Orwell",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/qhc99xrvg8sj949owk0fu5fxpmm5"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/qhc99xrvg8sj949owk0fu5fxpmm5",
+        "quantity": 0
       },
       {
         "id": "6432f01377579fd0c5eb3653",
-        "price": "$2,827.67",
+        "price": 185,
         "name": "Great Expectations",
         "writer": "Beulah Green",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/vhp7raq1cblgabwlempgtm3ezn41"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/vhp7raq1cblgabwlempgtm3ezn41",
+        "quantity": 0
       },
       {
         "id": "6432f0137c311ce51f12b47a",
-        "price": "$3,882.27",
+        "price": 473,
         "name": "One Thousand and One Nights",
         "writer": "Gay Frazier",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ryyznaj55vlc3furyeycow1nir0h"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/ryyznaj55vlc3furyeycow1nir0h",
+        "quantity": 0
       },
       {
         "id": "6432f01359b0d943ede7d47b",
-        "price": "$3,779.08",
+        "price": 571,
         "name": "The Grapes of Wrath",
         "writer": "Hollie Pace",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xy8n9vtgo1181leg4b02v0hzfnwx"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xy8n9vtgo1181leg4b02v0hzfnwx",
+        "quantity": 0
       },
       {
         "id": "6432f013d97534636211d4ed",
-        "price": "$2,444.52",
+        "price": 725,
         "name": "Absalom, Absalom!",
         "writer": "Vilma Phelps",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/s37qdd1q16evrjbukhm2h0bcv8h6"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/s37qdd1q16evrjbukhm2h0bcv8h6",
+        "quantity": 0
       },
       {
         "id": "6432f013f2dea5509c58dddc",
-        "price": "$1,949.06",
+        "price": 467,
         "name": "Invisible Man",
         "writer": "Rosanne Lawrence",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/vb6rrkazhhsa27jfqdbxi7mv8yvd"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/vb6rrkazhhsa27jfqdbxi7mv8yvd",
+        "quantity": 0
       },
       {
         "id": "6432f0137c1799ad514e3f54",
-        "price": "$3,572.87",
+        "price": 278,
         "name": "To Kill a Mockingbird",
         "writer": "Daugherty Ayala",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/fkecwnwx45jct4erxbux5q5ibxov"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/fkecwnwx45jct4erxbux5q5ibxov",
+        "quantity": 0
       },
       {
         "id": "6432f013a7a1a8cd8962ca31",
-        "price": "$3,136.95",
+        "price": 100,
         "name": "The Trial",
         "writer": "May Shields",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/1ki7308amv5ufvuzeffnhtnyar2m"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/1ki7308amv5ufvuzeffnhtnyar2m",
+        "quantity": 0
       },
       {
         "id": "6432f0134d96783ecad046a8",
-        "price": "$3,693.53",
+        "price": 200,
         "name": "The Red and the Black",
         "writer": "Camille Deleon",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/kyly0uxgcy6cw8wo4ampgf2kcqqo"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/kyly0uxgcy6cw8wo4ampgf2kcqqo",
+        "quantity": 0
       },
       {
         "id": "6432f0132d9e0588879bab87",
-        "price": "$3,970.20",
+        "price": 300,
         "name": "Middlemarch",
         "writer": "Rita Berry",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/efdwughygbap045aa4aj9500ljg2"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/efdwughygbap045aa4aj9500ljg2",
+        "quantity": 0
       },
       {
         "id": "6432f013ac36e2f820943f53",
-        "price": "$1,218.24",
+        "price": 150,
         "name": "Gulliver's Travels",
         "writer": "Bryant Burch",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/yqiiomg8ho6ulry2uts3zqnbstlp"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/yqiiomg8ho6ulry2uts3zqnbstlp",
+        "quantity": 0
       },
       {
         "id": "6432f013f436894bdf8acb1e",
-        "price": "$1,358.17",
+        "price": 260,
         "name": "Mrs. Dalloway",
         "writer": "Cain Robbins",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/uad12n15b1i46uby4kryeymiq4dk"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/uad12n15b1i46uby4kryeymiq4dk",
+        "quantity": 0
       },
       {
         "id": "6432f013f1342ab305a21092",
-        "price": "$3,056.67",
+        "price": 270,
         "name": "The Stories of Anton Chekhov",
         "writer": "Sexton Glass",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/318oirq90qfq95nbc8owth5lgnt8"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/318oirq90qfq95nbc8owth5lgnt8",
+        "quantity": 0
       },
       {
         "id": "6432f01390ae0cc3105c369f",
-        "price": "$1,289.50",
+        "price": 160,
         "name": "The Stranger",
         "writer": "Harris Beck",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xtezrjccfhrqv25j1scqq1box2ge"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/xtezrjccfhrqv25j1scqq1box2ge",
+        "quantity": 0
       },
       {
         "id": "6432f013ef4f8a74b49b21de",
-        "price": "$3,049.02",
+        "price": 120,
         "name": "Jane Eyre",
         "writer": "Yates Castaneda",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/g0uzzrrrso04u4hpdj90ge8nckuu"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/g0uzzrrrso04u4hpdj90ge8nckuu",
+        "quantity": 0
       },
       {
         "id": "6432f013007bbd8abb61b113",
-        "price": "$2,463.51",
+        "price": 180,
         "name": "The Aeneid",
         "writer": "Jimenez Monroe",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/12rslhcj3scyf2duhegyl1nshj78"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/12rslhcj3scyf2duhegyl1nshj78",
+        "quantity": 0
       },
       {
         "id": "6432f013871d411ca9af2718",
-        "price": "$1,731.18",
+        "price": 140,
         "name": "Collected Fiction",
         "writer": "Aisha Hoffman",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/n27xx6w5l50p0wlqfbgbzx0o731k"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/n27xx6w5l50p0wlqfbgbzx0o731k",
+        "quantity": 0
       },
       {
         "id": "6432f013668a9e15f4b98ac5",
-        "price": "$3,696.09",
+        "price": 210,
         "name": "The Sun Also Rises",
         "writer": "Donaldson Mann",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/noyiyqi1mq48twezfilmu8nsnvs3"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/noyiyqi1mq48twezfilmu8nsnvs3",
+        "quantity": 0
       },
       {
         "id": "6432f0137e2aed56aafd8b0b",
-        "price": "$3,114.35",
+        "price": 159,
         "name": "David Copperfield",
         "writer": "Angeline Gilmore",
-        "image": "https://d3i5mgdwi2ze58.cloudfront.net/n95k7vgukbo65lz00n0x0jexpppa"
+        "image": "https://d3i5mgdwi2ze58.cloudfront.net/n95k7vgukbo65lz00n0x0jexpppa",
+        "quantity": 0
       }
   ]
