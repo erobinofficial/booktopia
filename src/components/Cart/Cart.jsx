@@ -26,7 +26,7 @@ const Cart = ({cart}) => {
       <div className="m-10">
         <p>Selected items: {quantity}</p>
         <p>Total Price: ${total}</p>
-        <p>Tax: ${tax}</p>
+        <p>Tax: ${tax} (5%)</p>
         <p>Subtotal: ${subTotal}</p>
       </div>
       <div className="flex justify-center items-center">
